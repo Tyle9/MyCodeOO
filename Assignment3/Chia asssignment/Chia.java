@@ -7,7 +7,7 @@ public class Chia {
 		if(mood.equals("Sad")||mood.equals("Terrified"))
 			mood="Happy";
 				}
-	public void yellToChia(){
+	public void yellAtChia(){
 		if(mood.equals("Happy")||mood.equals("Terrified"))
 			mood="Sad";
 		}
